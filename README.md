@@ -4,3 +4,5 @@ Este Repositorio busca darnos una breve introduccion al lenguaje python, desde c
 
 Para ser mas interactivo se ha creado el archivo en jupyter notebook: "Introduction_to_Python.ipynb"
 
+Este contiene nociones basicas del lenguaje
+
