@@ -7,8 +7,12 @@ Para ser mas interactivo se ha creado el archivo en jupyter notebook: "Introduct
 Este contiene nociones basicas del lenguaje:
 
 Operaciones con objetos de formato scalar
+
 Operaciones con objetos de formato numerico
+
 Flujo de control: if-else, for, while
+
 Funciones
+
 Estructura de Datos: Listas
 
