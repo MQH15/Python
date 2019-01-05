@@ -11,4 +11,5 @@ Este contiene nociones basicas del lenguaje:
 - Flujo de control: if-else, for, while
 - Funciones
 - Estructura de Datos: Listas
+- Estructura de Datos: Tuplas
 
