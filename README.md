@@ -13,3 +13,9 @@ Este contiene nociones basicas del lenguaje:
 - Estructura de Datos: Listas
 - Estructura de Datos: Tuplas
 
+*****************************************************************************************************
+
+Se ha creado el notebook "Ejercicios_INTRO_PYTHON.ipynb"
+
+Este archivo contiene ejercicios resueltos sobre las nociones basicas en Python.
+
