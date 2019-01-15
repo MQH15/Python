@@ -19,3 +19,14 @@ Se ha creado el notebook "Ejercicios_INTRO_PYTHON.ipynb"
 
 Este archivo contiene ejercicios resueltos sobre las nociones basicas en Python.
 
+*****************************************************************************************************
+
+Se ha creado el notebook "Numpy.ipynb"
+
+Este archivo contiene como trabajar con esta conocida libreria en python:
+
+- Creacion arrays, formatos, tipos.
+- Arrays especiales.
+- Arrays y variables aleatorias.
+- indexing y slicing.
+
