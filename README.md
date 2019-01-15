@@ -2,7 +2,7 @@
 
 Este Repositorio busca darnos una breve introduccion al lenguaje python, desde comandos basicos e intermedios.
 
-Para ser mas interactivo se ha creado el archivo en jupyter notebook: "Introduction_to_Python.ipynb"
+Para ser mas interactivo se ha creado el archivo en jupyter notebook: "INTRO_PYTHON.ipynb"
 
 Este contiene nociones basicas del lenguaje:
 
@@ -21,7 +21,7 @@ Este archivo contiene ejercicios resueltos sobre las nociones basicas en Python.
 
 *****************************************************************************************************
 
-Se ha creado el notebook "Numpy.ipynb"
+Se ha creado el notebook "NUMPY.ipynb"
 
 Este archivo contiene como trabajar con esta conocida libreria en python:
 
