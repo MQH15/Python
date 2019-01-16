@@ -30,3 +30,6 @@ Este archivo contiene como trabajar con esta conocida libreria en python:
 - Arrays y variables aleatorias.
 - indexing y slicing.
 
+Para mayor detalle visite la pagina:
+(https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html)
+
