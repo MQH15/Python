@@ -23,7 +23,7 @@ Este archivo contiene ejercicios resueltos sobre las nociones basicas en Python.
 
 Se ha creado el notebook "NUMPY.ipynb"
 
-Este archivo contiene como trabajar con esta conocida libreria en python:
+Este archivo contiene como trabajar con esta libreria en python:
 
 - Creacion arrays, formatos, tipos.
 - Arrays especiales.
@@ -32,4 +32,15 @@ Este archivo contiene como trabajar con esta conocida libreria en python:
 
 Para mayor detalle visite la pagina:
 (https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html)
+
+*****************************************************************************************************
+
+Se ha creado el notebook "PANDAS.ipynb"
+
+Este archivo contiene como trabajar con esta libreria en python:
+
+- Series.
+
+Para mayor detalle visite la pagina:
+(http://pandas.pydata.org/pandas-docs/version/0.24.0rc1/dsintro.html)
 
