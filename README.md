@@ -40,6 +40,7 @@ Se ha creado el notebook "PANDAS.ipynb"
 Este archivo contiene como trabajar con esta libreria en python:
 
 - Series.
+- DataFrame (creación, Funciones especiales, Operaciones, valores nulos)
 
 Para mayor detalle visite la pagina:
 (http://pandas.pydata.org/pandas-docs/version/0.24.0rc1/dsintro.html)
