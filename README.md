@@ -45,3 +45,12 @@ Este archivo contiene como trabajar con esta libreria en python:
 Para mayor detalle visite la pagina:
 (http://pandas.pydata.org/pandas-docs/version/0.24.0rc1/dsintro.html)
 
+*****************************************************************************************************
+
+Se ha creado el notebook "PANDAS_2.ipynb"
+
+Este archivo contiene como trabajar manipulacion de datos con pandas:
+
+- Data Manipulation.
+- Merge, Transformation, missing.
+
