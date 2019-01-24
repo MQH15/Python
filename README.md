@@ -63,3 +63,6 @@ Este archivo contiene como trabajar con esta libreria en python:
 
 - plot, bar, scatter.
 
+Para mayor detalle visite la pagina:
+(http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+
