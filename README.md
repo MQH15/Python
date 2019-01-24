@@ -53,4 +53,13 @@ Este archivo contiene como trabajar manipulacion de datos con pandas:
 
 - Data Manipulation.
 - Merge, Transformation, missing.
+- Groupby, Pivot.
+
+*****************************************************************************************************
+
+Se ha creado el notebook "MATPLOTLIB.ipynb"
+
+Este archivo contiene como trabajar con esta libreria en python:
+
+- plot, bar, scatter.
 
