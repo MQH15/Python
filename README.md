@@ -61,8 +61,10 @@ Se ha creado el notebook "MATPLOTLIB.ipynb"
 
 Este archivo contiene como trabajar con esta libreria en python:
 
-- plot, bar, scatter.
+- plot, bar, scatter, Histogram, subplot, fill_between, ticks, limits.
+- Libreria SEABORN
 
 Para mayor detalle visite la pagina:
 (http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+(https://seaborn.pydata.org/tutorial/distributions.html)
 
