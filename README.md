@@ -65,6 +65,6 @@ Este archivo contiene como trabajar con esta libreria en python:
 - Libreria SEABORN
 
 Para mayor detalle visite la pagina:
-(http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
-(https://seaborn.pydata.org/tutorial/distributions.html)
+* (http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
+* (https://seaborn.pydata.org/tutorial/distributions.html)
 
