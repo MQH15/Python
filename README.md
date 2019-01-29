@@ -30,6 +30,10 @@ Este archivo contiene como trabajar con esta libreria en python:
 - Arrays y variables aleatorias.
 - indexing y slicing.
 
+Asimismo se ha creado el notebook "Ejercicios_NUMPY.ipynb"
+
+que contiene ejercicios resueltos sobre esta libreria.
+
 Para mayor detalle visite la pagina:
 (https://docs.scipy.org/doc/numpy-1.15.0/user/quickstart.html)
 
