@@ -63,6 +63,10 @@ Este archivo contiene como trabajar manipulacion de datos con pandas:
 - Merge, Transformation, missing.
 - Groupby, Pivot.
 
+Asimismo se ha creado el notebook "Ejercicios_PANDAS2.ipynb"
+
+Que contiene ejercicios resueltos sobre esta libreria.
+
 *****************************************************************************************************
 
 Se ha creado el notebook "MATPLOTLIB.ipynb"
@@ -76,3 +80,8 @@ Para mayor detalle visite la pagina:
 * (http://www.scipy-lectures.org/intro/matplotlib/matplotlib.html)
 * (https://seaborn.pydata.org/tutorial/distributions.html)
 
+*****************************************************************************************************
+
+Se ha creado el notebook "CHALLENGE_PYTHON.ipynb"
+
+Este archivo contiene ejercicios en python sobre analisis de datos de dos archivos "bookings.csv.bz2" y "searches.csv.bz2"
